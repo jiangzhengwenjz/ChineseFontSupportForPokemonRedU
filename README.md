@@ -1,2 +1,4 @@
 # ChineseFontSupportForPokemonRedU
-WIP
+Still WIP
+
+![](sample.gif)

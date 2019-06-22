@@ -1,0 +1,8 @@
+*.gbc
+*.gb
+*.sav
+backup
+convert
+insert
+split
+*.txt
