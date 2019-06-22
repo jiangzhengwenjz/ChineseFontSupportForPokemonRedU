@@ -1,0 +1,2 @@
+# ChineseFontSupportForPokemonRedU
+WIP
